@@ -97,3 +97,4 @@ switch (mois) {
         console.log("Automne");
         break
 }
+//debugger
